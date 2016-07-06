@@ -54,7 +54,9 @@
      <Compile Include="Assets\Scripts\Locomotion.cs" />
      <Compile Include="Assets\Scripts\LocomotionPlayer.cs" />
      <Compile Include="Assets\Scripts\sctCharRot.cs" />
+     <Compile Include="Assets\script\floorMovement.cs" />
      <Compile Include="Assets\script\movement.cs" />
+     <Compile Include="Assets\script\tile.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
